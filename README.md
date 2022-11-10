@@ -1,3 +1,9 @@
+
+![SharedScreenshot](https://user-images.githubusercontent.com/69619783/201053855-5c474d62-ab03-4a1a-b83a-3c008ecd63ee.jpg)
+
+
+
+
 # SimonGame
 The old and famous Simon Game using jQuery library
 
